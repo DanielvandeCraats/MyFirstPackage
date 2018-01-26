@@ -3,7 +3,7 @@
 #'@description This function converts standard KNMI input datafiles to readable input files for the main SUTRA script.
 #'    Function not to be called outside of main program.
 #'@param Datafile Name of KNMI data file to read
-#'@export
+#'@exportuse
 
 convertKNMI.fun <- function(Datafile){
   setwd(sourceDir)

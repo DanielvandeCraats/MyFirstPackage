@@ -13,3 +13,5 @@ AreaOfSquares <- function(length,width){
 }
 
 # devtools::document()
+# devtools::use_data_raw()
+# devtools::use_data
