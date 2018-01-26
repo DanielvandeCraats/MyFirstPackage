@@ -1,0 +1,10 @@
+Package: MyFirstPackage
+Type: Package
+Title: Testing some functions for my first package.
+Version: 0.1.0
+Author: Thats Me
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: No description
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
